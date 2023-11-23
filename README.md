@@ -3,6 +3,8 @@
 
 tg：[@HHjade](https://t.me/HHjade)
 
+加上飞机可发demo地址
+
 ## Golang + vue 自研黑U系统 OTC
 
 - 倍率自定义调整
